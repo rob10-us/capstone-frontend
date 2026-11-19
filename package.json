@@ -1,5 +1,5 @@
 {
-  "name": "foobar",
+  "name": "saltbound-frontend",
   "type": "module",
   "scripts": {
     "dev": "vite",
